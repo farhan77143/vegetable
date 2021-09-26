@@ -1,0 +1,52 @@
+body{
+    margin-top: 2%;
+    margin-left: 3%;
+    font-family:Gotham;
+}
+.navbar{
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    font-weight: bold;
+    list-style: none;
+    display: flex;
+    float: right;
+    font-size: 2vw;
+}
+li a{
+    padding: 0vw 2vw;
+}
+.logo{
+    position: relative;
+    top: -1vh;
+}
+h1{
+    font-weight: bold;
+    color: #086972;
+    position: relative;
+    top: 5vh;
+    font-size: 3.5vw;
+}
+.paragraph{
+    text-align: right;
+    position: relative;
+    font-size: 1.8vw;
+    top: 2vh;
+    float: left;
+    left: 1.7vw;
+    
+}
+.ordernow{
+    position: relative;
+    float: left;
+
+}
+.button{
+    background: none;
+    border: none;
+
+}

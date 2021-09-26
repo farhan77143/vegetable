@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="247" height="62" viewBox="0 0 247 62">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #2cb978;
+        stroke-width: 3px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #8dde6c;
+      }
+
+      .cls-2 {
+        font-size: 33px;
+        font-family: Gotham-Medium, Gotham;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_31" data-name="Group 31" transform="translate(-630 -584)">
+    <g id="Rectangle_4" data-name="Rectangle 4" class="cls-1" transform="translate(630 584)">
+      <rect class="cls-4" width="247" height="62" rx="23"/>
+      <rect class="cls-5" x="1.5" y="1.5" width="244" height="59" rx="21.5"/>
+    </g>
+    <g id="Group_23" data-name="Group 23" transform="translate(-947 -689)">
+      <text id="Order_Now" data-name="Order Now" class="cls-2" transform="translate(1776 1316)"><tspan x="-183.414" y="0">Order Now</tspan></text>
+      <g id="arrow-right" transform="translate(1772.569 1290.613)">
+        <path id="Path_70" data-name="Path 70" class="cls-3" d="M22.729,10.355a.787.787,0,0,1,1.114,0l4.72,4.72a.787.787,0,0,1,0,1.114l-4.72,4.72A.788.788,0,1,1,22.729,19.8l4.164-4.164-4.165-4.164a.787.787,0,0,1,0-1.114Z" transform="translate(5.938)"/>
+        <path id="Path_71" data-name="Path 71" class="cls-3" d="M4.5,17.662c0-.434.573-.787,1.28-.787H32.664c.707,0,1.28.352,1.28.787s-.573.787-1.28.787H5.78C5.073,18.448,4.5,18.1,4.5,17.662Z" transform="translate(0 -2.03)"/>
+      </g>
+    </g>
+  </g>
+</svg>

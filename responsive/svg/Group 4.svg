@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="228" height="89" viewBox="0 0 228 89">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-5 {
+        fill: #2cb978;
+      }
+
+      .cls-1 {
+        font-size: 60px;
+      }
+
+      .cls-1, .cls-5 {
+        font-family: Gotham-Bold, Gotham;
+        font-weight: 700;
+        letter-spacing: -0.04em;
+      }
+
+      .cls-2 {
+        fill: #086972;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #086972;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        font-size: 20px;
+      }
+    </style>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(-154 -1032)">
+    <g id="Group_2" data-name="Group 2" transform="translate(154 1032)">
+      <text id="Organ_c" data-name="Organ c" class="cls-1" transform="translate(0 56)"><tspan x="0" y="0">O</tspan><tspan class="cls-2" y="0">rgan</tspan><tspan y="0"> </tspan><tspan class="cls-2" y="0">c</tspan></text>
+      <g id="Group_1" data-name="Group 1" transform="translate(177.637 19.864)">
+        <path id="Path_1" data-name="Path 1" class="cls-3" d="M8.5,0C8.689.058,17,8.5,17,18.98s-3.8,18.983-8.5,18.983S0,29.464,0,18.98,8.308-.063,8.5,0Z" transform="translate(0 0.003)"/>
+        <path id="Path_2" data-name="Path 2" class="cls-4" d="M553.6,207.19s-3.74-21.049,0-37.814" transform="translate(-545.105 -169.224)"/>
+        <path id="Path_3" data-name="Path 3" class="cls-4" d="M559.47,304.278s6.8-8.753,6.054-17.952" transform="translate(-551.803 -273.267)"/>
+        <path id="Path_5" data-name="Path 5" class="cls-4" d="M566.271,326.395s-6.71-6.01-5.968-15.208" transform="translate(-558.604 -295.086)"/>
+        <path id="Path_4" data-name="Path 4" class="cls-4" d="M559.47,326.573a23.907,23.907,0,0,0,3.709-15.186" transform="translate(-552.634 -304.537)"/>
+        <path id="Path_6" data-name="Path 6" class="cls-4" d="M576.173,323.753s-3.942-5.967-1.659-15.536" transform="translate(-569.337 -302.091)"/>
+      </g>
+    </g>
+    <text id="Foods_and_Vegetables" data-name="Foods and Vegetables" class="cls-5" transform="translate(163 1117)"><tspan x="0" y="0">Foods and Vegetables</tspan></text>
+  </g>
+</svg>
